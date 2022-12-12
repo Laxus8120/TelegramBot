@@ -2,7 +2,8 @@
 
     1 . we are going to use telegraf package from npm.
     2 . intialize npm init.
-    3 . Now, because we are using telegraf package install npm i telegraf
+    3 . Now, because we are using telegraf package, 
+            - install npm i telegraf
     4 . Create index.js file now 
     5 . start downloading module syntax from document of telegraf . so here we are using common js module 
     e.g - const { Telegraf } = require('telegraf');
